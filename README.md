@@ -48,10 +48,118 @@ Building intelligent systems with Data Science, Computer Vision, and Generative 
 
 ---
 
-## 🔭 Current Focus
+<!-- ========================= CURRENT FOCUS ========================= -->
+
+## 🔭 Currently Exploring
 
 - 🤖 Building production-ready AI applications
-- 🧠 Exploring Agentic AI and LLM-powered systems
-- 👁️ Developing Computer Vision solutions for healthcare
-- 📊 Advancing Data Science and Causal Inference techniques
-- ⚙️ Designing scalable ML pipelines and MLOps workflows
+- 🧠 Agentic AI & LLM-powered systems
+- 👁️ Computer Vision for healthcare and intelligent automation
+- 📊 Advanced Data Science & Causal Inference
+- ⚙️ Scalable ML pipelines and MLOps workflows
+
+---
+
+<!-- ========================= CORE EXPERTISE ========================= -->
+
+## 💡 Core Expertise
+
+<p align="center">
+
+Artificial Intelligence • Machine Learning • Data Science • Computer Vision • Generative AI • MLOps • Causal Inference • Intelligent Systems
+
+</p>
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+## 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+
+**Libraries & Frameworks**
+
+Scikit-learn • MediaPipe • Prophet • EconML
+
+</p>
+
+---
+
+### 📊 Data Science & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+<p>
+
+Matplotlib • Seaborn • Power BI
+
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+<p>
+
+REST APIs
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,github,vercel" />
+</p>
+
+<p>
+
+GitHub Actions
+
+</p>
+
+---
+
+### 🛠️ Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<p>
+
+Jupyter Notebook
+
+</p>
+
+---
