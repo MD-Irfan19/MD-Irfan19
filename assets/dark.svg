@@ -189,11 +189,11 @@
     </style>
 
     <!-- Gradients -->
-    <radialGradient id="cyanInnerGlow" cx="240" cy="320" r="300" gradientUnits="userSpaceOnUse">
+    <radialGradient id="cyanInnerGlow" cx="240" cy="320" r="200" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.2" />
       <stop offset="100%" stop-color="#00F0FF" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="cyanOuterGlow" cx="240" cy="320" r="700" gradientUnits="userSpaceOnUse">
+    <radialGradient id="cyanOuterGlow" cx="240" cy="320" r="400" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#33D6FF" stop-opacity="0.10" />
       <stop offset="100%" stop-color="#33D6FF" stop-opacity="0" />
     </radialGradient>
@@ -248,7 +248,7 @@
   </defs>
 
   <!-- Background Layers -->
-  <rect width="1280" height="640" fill="#0D1117"/>
+  <rect width="1280" height="640" fill="transparent"/>
   <!-- Background Glow System -->
     <g class="drift-cyan">
       <rect width="1280" height="640" fill="url(#cyanOuterGlow)" class="glow-outer"/>
@@ -256,7 +256,7 @@
     <rect width="1280" height="640" fill="url(#cyanInnerGlow)" class="glow-inner"/>
   <rect width="1280" height="640" fill="url(#purpleGlow)" class="drift-purple"/>
   <rect width="1280" height="640" fill="url(#grid)"/>
-  <rect width="1280" height="640" filter="url(#noise)" opacity="0.02" />
+  
   
 
   <!-- Left Side: Portrait -->
