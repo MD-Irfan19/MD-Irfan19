@@ -189,11 +189,11 @@
     </style>
 
     <!-- Gradients -->
-    <radialGradient id="cyanInnerGlow" cx="240" cy="320" r="200" gradientUnits="userSpaceOnUse">
+    <radialGradient id="cyanInnerGlow" cx="240" cy="320" r="250" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.2" />
       <stop offset="100%" stop-color="#00F0FF" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="cyanOuterGlow" cx="240" cy="320" r="400" gradientUnits="userSpaceOnUse">
+    <radialGradient id="cyanOuterGlow" cx="240" cy="320" r="500" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#33D6FF" stop-opacity="0.10" />
       <stop offset="100%" stop-color="#33D6FF" stop-opacity="0" />
     </radialGradient>
@@ -255,7 +255,7 @@
     </g>
     <rect width="1280" height="640" fill="url(#cyanInnerGlow)" class="glow-inner"/>
   <rect width="1280" height="640" fill="url(#purpleGlow)" class="drift-purple"/>
-  <rect width="1280" height="640" fill="url(#grid)"/>
+  
   
   
 
