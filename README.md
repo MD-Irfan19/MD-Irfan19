@@ -190,6 +190,23 @@ Jupyter Notebook
 
 </p>
 
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=MD-Irfan19&hide_border=true&background=0D1117&stroke=22D3EE&ring=10B981&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats-eight-phi-84.vercel.app/api?username=MD-Irfan19&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=94A3B8&icon_color=10B981" />
+
+<img width="49%" src="https://github-readme-stats-eight-phi-84.vercel.app/api/top-langs/?username=MD-Irfan19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=94A3B8" />
+
+</div>
+
 ---
 
 <!-- ========================= SIGNATURE PROJECTS ========================= -->
