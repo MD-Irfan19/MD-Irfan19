@@ -10,13 +10,13 @@
 
 <!-- ========================= HERO ========================= -->
 
-<h1 align="center">Mohammed Irfanulla</h1>
+<!-- <h1 align="center">Mohammed Irfanulla</h1>
 
 <h3 align="center">AI, Machine Learning & Data Science Engineer</h3>
 
 <p align="center">
 Building intelligent systems with Data Science, Computer Vision, and Generative AI.
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammedirfanulla">
@@ -31,7 +31,7 @@ Building intelligent systems with Data Science, Computer Vision, and Generative 
   <a href="https://drive.google.com/file/d/1lumQGo0Tub8ORvzC_c6Mya0_z2Ejjn_W/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-  <!-- <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-8A2BE2?style=for-the-badge"/> -->
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
 </p>
 
 <br>
@@ -49,10 +49,12 @@ Data Science student at VIT Vellore, focused on applied ML systems rather than i
 ## Experience
 
 **Backend Developer Intern — ArqGene**
-`[Month Year] – Present`
+`May 2026 – Present`
 
-- [ Add 1–2 lines on what you actually built or shipped — APIs, services, data pipelines, etc. ]
-- [ Add tech stack used in the role, if distinct from below ]
+- Engineered backend services for a bioinformatics platform supporting protein–ligand molecular docking, focusing on scalable API development and efficient scientific data processing.
+- Built and maintained REST APIs, streamlined backend workflows, and contributed to production-ready infrastructure for computational biology applications.
+
+**Tech Stack:** Python • FastAPI • REST APIs • Postgres • Bioinformatics
 
 <br>
 
@@ -60,87 +62,78 @@ Data Science student at VIT Vellore, focused on applied ML systems rather than i
 
 ## Signature Projects
 
-### AI Systems
-
-<a href="https://github.com/MD-Irfan19/AI-App-Compiler">
-  <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=AI-App-Compiler&theme=tokyonight&hide_border=true" />
-</a>
-
-> Natural language → production-ready Next.js applications
-
-A multi-stage AI pipeline that compiles natural language prompts into validated, executable Next.js applications with automatic JSON repair, cross-layer consistency validation, and real-time execution tracking.
-
-**Tech:** LLMs • Next.js • TypeScript • JSON Validation • SSE
-
----
-
-### Data Science & Causal AI
-
-<a href="https://github.com/MD-Irfan19/Causal-Uplift">
-  <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=Causal-Uplift&theme=tokyonight&hide_border=true" />
-</a>
-
-> Moving beyond prediction to causal decision-making
-
-An end-to-end causal inference project estimating who truly responds to marketing interventions, using Double Machine Learning and Causal Forests.
-
-**Tech:** EconML • Python • Causal ML • Data Science
-
----
-
-### MLOps
-
-<a href="https://github.com/MD-Irfan19/ML_Drift_Detection_and_Alert_System">
-  <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=ML_Drift_Detection_and_Alert_System&theme=tokyonight&hide_border=true" />
-</a>
-
-> Monitoring ML models after deployment
-
-A production-oriented ML monitoring framework that detects data drift, prediction drift, and performance degradation, with automated alerts and interactive dashboards.
-
-**Tech:** Streamlit • PSI • KS Test • Monitoring
-
----
-
-### Evolutionary Machine Learning
-
-<a href="https://github.com/MD-Irfan19/GA_Enhanced_MLP_for_Churn_Classification">
-  <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=GA_Enhanced_MLP_for_Churn_Classification&theme=tokyonight&hide_border=true" />
-</a>
-
-> Evolution meets deep learning
-
-Customer churn prediction using a Genetic-Algorithm-optimized Multi-Layer Perceptron, with automated hyperparameter search and threshold optimization.
-
-**Tech:** Genetic Algorithms • TensorFlow • MLP • Python
-
----
-
-### Explainable AI
-
-<a href="https://github.com/MD-Irfan19/Neuro-fuzzy-MNIST">
-  <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=Neuro-fuzzy-MNIST&theme=tokyonight&hide_border=true" />
-</a>
-
-> Interpretable handwritten digit recognition
-
-A custom Neuro-Fuzzy architecture combining Gaussian Membership Functions with neural learning for efficient, explainable MNIST classification.
-
-**Tech:** Neuro-Fuzzy Systems • TensorFlow • Explainable AI
-
----
-
-### Intelligent Applications
-
-<a href="https://github.com/MD-Irfan19/EquiShare">
-  <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=EquiShare&theme=tokyonight&hide_border=true" />
-</a>
-
-> Collaborative expense management with analytics
-
-A full-stack group expense management platform featuring real-time collaboration, business intelligence dashboards, and predictive analytics.
-
-**Tech:** React • Node.js • MongoDB • Analytics
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MD-Irfan19/AI-App-Compiler">
+        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=AI-App-Compiler&theme=tokyonight&hide_border=true" />
+      </a>
+      <br>
+      <sub><b>Natural language → production-ready Next.js applications</b></sub>
+      <br><br>
+      A multi-stage AI pipeline that compiles natural language prompts into validated, executable Next.js applications with automatic JSON repair, cross-layer consistency validation, and real-time execution tracking.
+      <br><br>
+      <sub><b>Tech:</b> LLMs • Next.js • TypeScript • JSON Validation • SSE</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MD-Irfan19/Causal-Uplift">
+        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=Causal-Uplift&theme=tokyonight&hide_border=true" />
+      </a>
+      <br>
+      <sub><b>Moving beyond prediction to causal decision-making</b></sub>
+      <br><br>
+      An end-to-end causal inference project estimating who truly responds to marketing interventions, using Double Machine Learning and Causal Forests.
+      <br><br>
+      <sub><b>Tech:</b> EconML • Python • Causal ML • Data Science</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MD-Irfan19/ML_Drift_Detection_and_Alert_System">
+        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=ML_Drift_Detection_and_Alert_System&theme=tokyonight&hide_border=true" />
+      </a>
+      <br>
+      <sub><b>Monitoring ML models after deployment</b></sub>
+      <br><br>
+      A production-oriented ML monitoring framework that detects data drift, prediction drift, and performance degradation, with automated alerts and interactive dashboards.
+      <br><br>
+      <sub><b>Tech:</b> Streamlit • PSI • KS Test • Monitoring</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MD-Irfan19/GA_Enhanced_MLP_for_Churn_Classification">
+        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=GA_Enhanced_MLP_for_Churn_Classification&theme=tokyonight&hide_border=true" />
+      </a>
+      <br>
+      <sub><b>Evolution meets deep learning</b></sub>
+      <br><br>
+      Customer churn prediction using a Genetic-Algorithm-optimized Multi-Layer Perceptron, with automated hyperparameter search and threshold optimization.
+      <br><br>
+      <sub><b>Tech:</b> Genetic Algorithms • MLP • Python</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MD-Irfan19/Neuro-fuzzy-MNIST">
+        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=Neuro-fuzzy-MNIST&theme=tokyonight&hide_border=true" />
+      </a>
+      <br>
+      <sub><b>Interpretable handwritten digit recognition</b></sub>
+      <br><br>
+      A custom Neuro-Fuzzy architecture combining Gaussian Membership Functions with neural learning for efficient, explainable MNIST classification.
+      <br><br>
+      <sub><b>Tech:</b> Neuro-Fuzzy Systems • TensorFlow • Explainable AI</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MD-Irfan19/EquiShare">
+        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=EquiShare&theme=tokyonight&hide_border=true" />
+      </a>
+      <br>
+      <sub><b>Collaborative expense management with analytics</b></sub>
+      <br><br>
+      A full-stack group expense management platform featuring real-time collaboration, business intelligence dashboards, and predictive analytics.
+      <br><br>
+      <sub><b>Tech:</b> React • Node.js • Supabase • Analytics</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -148,36 +141,31 @@ A full-stack group expense management platform featuring real-time collaboration
 
 ## Tech Stack
 
-**Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=python,r,java,cpp" /></p>
-
-**AI & Machine Learning**
-<p align="left"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /></p>
-
-Scikit-learn • MediaPipe • Prophet • EconML
-
-**Data Science & Analytics**
-<p align="left"><img src="https://skillicons.dev/icons?i=pandas,numpy" /></p>
-
-Matplotlib • Seaborn • Power BI
-
-**Backend & APIs**
-<p align="left"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" /></p>
-
-REST APIs
-
-**Databases**
-<p align="left"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>
-
-**Cloud & DevOps**
-<p align="left"><img src="https://skillicons.dev/icons?i=azure,docker,github,vercel" /></p>
-
-GitHub Actions
-
-**Developer Tools**
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
-
-Jupyter Notebook
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,r,java,cpp" /><br><br>
+      <sub>HTML • CSS • React.js</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>AI & Machine Learning</b><br><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br><br>
+      <sub>Scikit-learn • MediaPipe • Prophet • EconML</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>Data Science & Analytics</b><br><br>
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/><br><br>
+      <sub>Matplotlib • Seaborn • Power BI</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>Backend, APIs & Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,mongodb" /><br><br>
+      <sub>REST APIs • Express.js</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
