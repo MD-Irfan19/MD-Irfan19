@@ -189,12 +189,12 @@
     </style>
 
     <!-- Gradients -->
-    <radialGradient id="cyanInnerGlow" cx="240" cy="320" r="200" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#057696" stop-opacity="0.50" />
+    <radialGradient id="cyanInnerGlow" cx="240" cy="320" r="160" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#057696" stop-opacity="0.30" />
       <stop offset="100%" stop-color="#057696" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="cyanOuterGlow" cx="240" cy="320" r="400" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#057696" stop-opacity="0.40" />
+    <radialGradient id="cyanOuterGlow" cx="240" cy="320" r="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#057696" stop-opacity="0.20" />
       <stop offset="100%" stop-color="#057696" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="purpleGlow" cx="850" cy="400" r="600" gradientUnits="userSpaceOnUse">
@@ -254,7 +254,7 @@
       <rect width="1280" height="640" fill="url(#cyanOuterGlow)" class="glow-outer"/>
     </g>
     <rect width="1280" height="640" fill="url(#cyanInnerGlow)" class="glow-inner"/>
-  <rect width="1280" height="640" fill="url(#purpleGlow)" class="drift-purple"/>
+  
   
   
   
