@@ -49,7 +49,7 @@ Data Science student at VIT Vellore, focused on applied ML systems rather than i
 ## Experience
 
 **Backend Developer Intern — ArqGene**
-`May 2026 – Present`
+`May 2026 – July 2026`
 
 - Engineered backend services for a bioinformatics platform supporting protein–ligand molecular docking, focusing on scalable API development and efficient scientific data processing.
 - Built and maintained REST APIs, streamlined backend workflows, and contributed to production-ready infrastructure for computational biology applications.
