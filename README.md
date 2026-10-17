@@ -122,15 +122,15 @@ Data Science student at VIT Vellore, focused on applied ML systems rather than i
       <sub><b>Tech:</b> Neuro-Fuzzy Systems • TensorFlow • Explainable AI</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/MD-Irfan19/EquiShare">
-        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=EquiShare&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/MD-Irfan19/PhysioAR">
+        <img src="https://github-readme-stats-eight-phi-84.vercel.app/api/pin/?username=MD-Irfan19&repo=PhysioAR&theme=tokyonight&hide_border=true" />
       </a>
       <br>
-      <sub><b>Collaborative expense management with analytics</b></sub>
+      <sub><b>AI-powered physiotherapy exercise analysis</b></sub>
       <br><br>
-      A full-stack group expense management platform featuring real-time collaboration, business intelligence dashboards, and predictive analytics.
+      A computer vision-based rehabilitation platform featuring real-time pose estimation, joint angle tracking, range-of-motion measurement, compensation detection, repetition counting, and exercise quality scoring.
       <br><br>
-      <sub><b>Tech:</b> React • Node.js • Supabase • Analytics</sub>
+      <sub><b>Tech:</b> Python • MediaPipe • OpenCV • FastAPI • React • TypeScript</sub>
     </td>
   </tr>
 </table>
